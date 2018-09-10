@@ -1,0 +1,3 @@
+- Array methods
+- Hashes
+- Classes
